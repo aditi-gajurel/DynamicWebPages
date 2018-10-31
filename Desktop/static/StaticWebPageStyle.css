@@ -137,6 +137,13 @@ font-weight:bold;
     margin-top:40px;
     font-weight:bold;
 }
+
+.foot{
+    padding:10px;
+   }
+#footimages{
+    text-align:center;
+}
 #alt2{
     color:orangered;
     margin-left:585px;
@@ -153,12 +160,4 @@ font-weight:bold;
     background: black;
     padding:20px;
     margin-bottom: 10px;
-}
-
-.foot{
-    
-    padding:10px;
-   }
-#footimages{
-    text-align:center;
 }
